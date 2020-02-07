@@ -1,0 +1,45 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    background-image: url(pies.jpg);
+}
+
+.header-in{
+    background: rgb(146, 75, 53);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+}
+
+.menu nav a{ 
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 1rem;
+    margin-right: 1rem;
+}
+
+.img-logo{
+    width: 30%;
+}
+
+h1{
+    font-size: 2rem;
+}
+
+.info{
+    font-size: 1rem;
+    color: black;
+    text-align: center;
+}
+
+.footer-in{
+    font-size: 1rem;
+    color:black;
+    border-top: 1px solid black;
+    height: 100px;
+}
+
+.found{
+    background: rgba(235, 156, 9, 0.774);
+}
